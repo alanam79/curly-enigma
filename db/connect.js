@@ -8,10 +8,9 @@
 //     useUnifiedTopology: true,
 //   })
 // }
-
 // module.exports = connectDB
 
-// updated with API assistance
+// updated path with API assistance
 const mongoose = require("mongoose");
 
 const connectDB = async () => {
